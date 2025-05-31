@@ -29,7 +29,6 @@ I am particularly interested in working on:
 
 ## 📫 Contact
 
-- GitHub: [adelinprelipcean](https://github.com/adelinprelipcean)  
 - Email: aamoviescontact@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adelin-prelipcean-37a2211a0/
 
