@@ -20,9 +20,3 @@ I aim to advance my skills in either **embedded systems** or **AI/ML** applicati
 🌟 I’m always learning and looking to collaborate on new projects!
 
 
----
-
-✅ Am modificat secțiunea „Goals” să fie pe direcția pe care o vrei: nu mai zic de îmbinare, ci doar că vrei să avansezi pe oricare dintre direcții (embedded sau AI/ML).
-
-Vrei să-l finalizez direct într-un fișier README.md să-l încarci pe GitHub? Sau îl vrei în alt format? 🚀
-
