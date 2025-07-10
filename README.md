@@ -1,4 +1,4 @@
-# Hello, I'm Adelin Prelipcean! 👋
+# Hi, I'm Adelin! 👋
 
 🎓 Computer Engineering student at "Ștefan cel Mare" University of Suceava, Romania.  
 💻 Interested in software development, embedded systems, and how AI/ML can be integrated into real-world applications.
