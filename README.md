@@ -4,7 +4,7 @@
 💻 Interested in software development, embedded systems, and how AI/ML can be integrated into real-world applications.
 
 🔧 **Technical skills:**  
-- Programming: C, C++, C#, Python, JavaScript, TypeScript  
+- Programming: Python, C, C++, C#, JavaScript, TypeScript  
 - Frameworks: WinForms, React, Django  
 - Embedded systems: ESP32, Arduino  
 - Exploring AI/ML basics and their integration in embedded projects
