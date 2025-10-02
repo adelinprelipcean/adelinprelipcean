@@ -1,22 +1,11 @@
-# Hi, I'm Adelin! 👋
-
-🎓 Computer Engineering student at "Ștefan cel Mare" University of Suceava, Romania.  
-💻 Interested in software development, embedded systems, and how AI/ML can be integrated into real-world applications.
-
-🔧 **Technical skills:**  
-- Programming: Python, C, C++, C#, JavaScript, TypeScript  
-- Frameworks: WinForms, React, Django  
-- Embedded systems: ESP32, Arduino  
-- Exploring AI/ML basics and their integration in embedded projects
-
-🚀 **Goals:**  
-I aim to advance my skills in either **embedded systems** or **AI/ML** applications, working on real-world, innovative solutions in these fields.
+Hi, I'm Adelin! 👋
+🎓 3rd year Computer Engineering student, focused on Machine Learning and its real-world applications.
+⚙️ Skills: Python, C/C++, ESP32, Arduino
+🎯 Goal: specialize in AI/ML and applied data-driven solutions.
 
 📫 **Contact:**  
 - [GitHub](https://github.com/adelinprelipcean)  
 - [LinkedIn](https://www.linkedin.com/in/adelin-prelipcean-37a2211a0/)  
 - Email: aamoviescontact@gmail.com
-
-🌟 I’m always learning and looking to collaborate on new projects!
 
 
