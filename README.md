@@ -8,7 +8,8 @@
 
 ### 📫 Contact
 - [GitHub](https://github.com/adelinprelipcean)  
-- [LinkedIn](https://www.linkedin.com/in/adelin-prelipcean-37a2211a0/)  
+- [LinkedIn](https://www.linkedin.com/in/adelin-prelipcean-37a2211a0/)
+- [HackerRank](https://www.hackerrank.com/profile/Adelin_P) 
 - Email: aamoviescontact@gmail.com
 
 
