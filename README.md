@@ -1,7 +1,7 @@
 # Hi, I'm Adelin! 👋  
 
 🎓 3rd year Computer Engineering student, focused on **ML/AI** and their real-world applications.  
-⚙️ Skills: **Python**, **Numpy**, C/C++, ESP32, Arduino  
+⚙️ Skills: **Python**, C/C++, ESP32, Arduino  
 🎯 Goal: specialize in **AI/ML** and applied data-driven solutions.  
 
 ---
