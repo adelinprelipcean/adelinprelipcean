@@ -12,6 +12,6 @@ Computer Engineering Student @ USV. I build practical tools and explore how comp
 - [GitHub](https://github.com/adelinprelipcean)  
 - [LinkedIn](https://www.linkedin.com/in/adelin-prelipcean-37a2211a0/)
 - [HackerRank](https://www.hackerrank.com/profile/Adelin_P) 
-- Email: aamoviescontact@gmail.com
+- Email: radu.adelin.prelipcean@gmail.com
 
 
